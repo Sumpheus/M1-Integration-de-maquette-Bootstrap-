@@ -1,0 +1,31 @@
+* {
+  margin: ;
+}
+
+#tete {
+  margin-top: ;
+  color: white;
+  height: ;
+}
+
+#learn {
+  background-color: #ffe500;
+  color: black;
+  border-color: black;
+  margin-top: 45px;
+  margin-bottom: 160px;
+}
+
+#learn:focus {
+  box-shadow: none;
+  background-color: orange;
+}
+
+body h5 {
+  margin-top: 150px;
+}
+
+/*Alignement de 4 cadre*/
+.alignement1 .card{
+  box-shadow: 1px 1px 7px grey;
+}
